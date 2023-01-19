@@ -42,5 +42,8 @@
             "last 1 safari version"
         ]
     },
-    "homepage": "http://FahrulZul.github.io/monster-rolodex"
+    "homepage": "http://FahrulZul.github.io/monster-rolodex",
+    "devDependencies": {
+        "gh-pages": "^4.0.0"
+    }
 }
